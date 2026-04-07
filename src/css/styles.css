@@ -50,7 +50,7 @@ a {
 }
 
 .site-footer {
-  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  border-top: 1px solid #555;
   background-color: #f5f5f5;
 }
 
@@ -68,7 +68,7 @@ a {
 }
 
 .site-header {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  border-bottom: 1px solid #555;
   background-color: #fff;
 }
 
@@ -112,4 +112,10 @@ a {
   font-size: 18px;
   line-height: 1.6;
   color: rgba(0, 0, 0, 0.72);
+}
+
+.infocard {
+  border: 1px solid #555;
+  border-radius: 2rem;
+  padding: 10px;
 }/*# sourceMappingURL=styles.css.map */

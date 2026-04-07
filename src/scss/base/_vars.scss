@@ -7,7 +7,7 @@ $text-color-muted: rgba($black, 0.72);
 $text-color-secondary: rgba($black, 0.64);
 $bg-color: $white;
 $surface-color: #f5f5f5;
-$border-color: rgba($black, 0.08);
+$border-color: #555;
 $accent-color: #2f6fed;
 $success-color: #12b76a;
 $danger-color: #d92d20;
@@ -55,3 +55,6 @@ $breakpoints: (
     desktop-lg: $desktop-lg
 );
 
+// Text Sizes
+
+$h1Size: 5rem;
